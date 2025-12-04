@@ -65,7 +65,7 @@ fallbacks 的具体配置请点击 [FallbackObject](../features/fallback.md#fall
   "level": 0,
   "email": "love@xray.com",
   "flow": "xtls-rprx-vision",
-  "reverse" {}
+  "reverse": {}
 }
 ```
 
